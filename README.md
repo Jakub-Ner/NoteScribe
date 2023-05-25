@@ -8,7 +8,7 @@ Application for Scribing notes from documents and articles using LLM.
 
 ## Technologies Used:
 - **LangChain** - document splitting, chaining and templating prompts, MenuAgent implementation, searching for semantic similarity 
-- **OpenAI (Embeddings and LLM)** - decision-making process, creating summaries, QA and notes
+- **Embeddings and LLM (OpenAI)** - decision-making process, creating summaries, QA and notes
 - **Chroma** - storing the document as embeddings
 - **Tesseract** - extracting text from images or unselectables PDF's.
-- **Text-To-Speech from Eleven Labs** - converting notes into high-quality, natural-sounding podcast
+- **Text-To-Speech (Eleven Labs)** - converting notes into high-quality, natural-sounding podcast
